@@ -4,7 +4,7 @@
 
 ---
 
-[here](https://github.com/galadam96/VirtualDriveManager/blob/master/IMG/1.png)
+[![IMAGE ALT TEXT](https://github.com/galadam96/VirtualDriveManager/blob/master/IMG/1.png)
 
 
 
