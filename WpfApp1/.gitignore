@@ -1,0 +1,56 @@
+# Build results
+bin/
+obj/
+out/
+[Dd]ebug*/
+[Rr]elease*/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+*.sln.iml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Local History for Visual Studio
+.localhistory/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+*.ipr
+*.iws
+
+# Test Results
+TestResults/
+*.trx
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/launch.json
+.vscode/settings.json
+
+# Distribution files
+publish/
